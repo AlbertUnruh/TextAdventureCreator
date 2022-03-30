@@ -7,3 +7,4 @@ __description__ = "A simple map creator for [TextAdventure](https://github.com/A
 
 
 from .menu import *
+from .processor import *
